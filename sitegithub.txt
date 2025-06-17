@@ -1,0 +1,15 @@
+Passos para criar um site no GitHub Pages:
+1. Crie um repositório:
+No GitHub, clique no botão "New repository" (Novo Repositório) no canto superior direito. 
+Insira o nome do repositório como "username.github.io" (substituindo "username" pelo seu nome de usuário do GitHub). 
+Verifique a opção "Public" para que o site seja acessível a todos. 
+Clique em "Create repository" (Criar Repositório). 
+2. Adicione os arquivos do seu site:
+No repositório criado, adicione os arquivos do seu site, como o arquivo HTML principal (index.html) e quaisquer outros arquivos, como CSS, JavaScript, imagens, etc. 
+3. Configure o GitHub Pages:
+No repositório, clique em "Settings" (Configurações). 
+Clique em "Pages" na seção "Code and automation" (Código e Automação) na barra lateral. 
+Em "Source", selecione o branch de publicação (geralmente "main" ou "gh-pages"). 
+Clique em "Save" (Salvar). 
+4. Acesse o seu site:
+O seu site estará disponível em "username.github.io" (onde "username" é o seu nome de usuário do GitHub). 
