@@ -1,0 +1,7 @@
+   1-acessou o site e fez o login no github clique no icône do seu perfil 
+   2-entre em "seus reposítorios"
+   3-se for criar um novo reposítorio clique em "novo"
+   4-de um nome para o seu reposítorio somente letras minúsculas sem espaço ou números
+   5- e clique em "criar reposítorio"
+   6- clique em "enviando um arquivo existente" que está em azul 
+    
